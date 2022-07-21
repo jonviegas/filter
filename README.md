@@ -3,6 +3,12 @@
 
 ## :book: **Introduction**
 Program that applies filters to BMPs.
+- - -
+
+## :wrench: **Compilation**:
+```
+make filter
+```
 
 - - -
 
