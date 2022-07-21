@@ -1,7 +1,7 @@
 # :camera: **Filter**
 - - -
 
-## :book: **Introduction**
+## :book: **Introduction**:
 Program that applies filters to BMPs.
 - - -
 
@@ -9,29 +9,28 @@ Program that applies filters to BMPs.
 ```
 make filter
 ```
-
 - - -
 
 ## :computer: **Usage**
 
-### **Grayscale**: 
+#### **Grayscale**: 
 ```
 ./filter -g <infile.bmp> <outfile.bmp>
 ```
-### **Sepia**: 
+#### **Sepia**: 
 ```
 ./filter -s <infile.bmp> <outfile.bmp>
 ```
-### **Reflection**: 
+#### **Reflection**: 
 ```
 ./filter -r <infile.bmp> <outfile.bmp>
 ```
-### **Blur**: 
+#### **Blur**: 
 ```
 ./filter -b <infile.bmp> <outfile.bmp>
 ```
-
 - - -
+
 ## :eight_spoked_asterisk: **References**
 [CS50 Harvard](https://cs50.harvard.edu/x/2020/psets/4/filter/less/)
 
